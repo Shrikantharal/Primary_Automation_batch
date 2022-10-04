@@ -1,12 +1,8 @@
 Hi this is sample file.
 
-<<<<<<< Updated upstream
 
---Changes done By_A
-~~Chnages done by_B
-=======
 --Changes done By_A
 ~~Chnages done by_B
 
 --Changes done by_A
->>>>>>> Stashed changes
+
